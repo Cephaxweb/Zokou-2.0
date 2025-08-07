@@ -1,3 +1,5 @@
+name: Deploy Zokou MD
+
 on:
   push:
     branches:
